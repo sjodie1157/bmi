@@ -1,0 +1,25 @@
+.box {
+    padding: 2em;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 2%;
+    background-color: black;
+    color: white;
+}
+
+input {
+    margin: 1em;
+}
+
+.container{
+    margin: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+#answer {
+    border: 2px solid white;
+    border-radius: 2em;
+    color: white;
+    background-color: black;
+}
